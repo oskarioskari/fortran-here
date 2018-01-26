@@ -1,0 +1,121 @@
+objects
+9
+masses
+1989000000000000000000000000000
+330362200000000000000000
+4874784000000000000000000
+5974000000000000000000000
+642205000000000000000000
+1898000000000000000000000000
+568426100000000000000000000
+86861960000000000000000000
+102932020000000000000000000
+positions
+0 0 0
+57900000000 0 0
+108200000000 0 0
+149600000000 0 0
+227900000000 0 0
+778400000000 0 0
+1425600000000 0 0
+2870000000000 0 0
+4501000000000 0 0
+velocities
+0 0 0
+0 47890 0
+0 35030 0
+0 29780 0
+0 24130 0
+0 13060 0
+0 9640 0
+0 6810 0
+0 5430 0
+print
+10
+write
+1
+simulation
+lenght
+31536000
+timestep
+172800
+steps
+0
+end
+
+**************************************************
+
+Masses are in kg
+Velocities in m/s
+Positions in m
+length in s
+timestep in s
+
+**************************************************
+
+Below are listed some common (and useful) values
+that can be used.
+
+For simulation length and timestep:
+
+Year:	31536000
+HalfY:	15768000
+Month:	2592000
+TwoW:	1209600
+Week:	604800
+TwoD:	172800
+Day:	86400
+Hour:	3600
+
+Orbital periods:
+Mercury:	7593869
+Venus:		19400947
+Mars:		59316062
+Jupiter:	374111568
+Saturn:		927473760
+Uranus:		2650285440
+Neptune:	5203440000
+	
+
+Values for solar system objects:
+
+Sun:
+	Mass: 			1989000000000000000000000000000
+Mercury:
+	Mass: 			330362200000000000000000
+	Distance from sun: 	57900000000
+	Velocity: 		47890
+Venus:
+	Mass: 			4874784000000000000000000
+	Distance from sun: 	108200000000
+	Velocity:		35030
+Earth:
+	Mass: 			5974000000000000000000000
+	Distance from sun: 	149600000000
+	Velocity: 		29780
+Mars:
+	Mass: 			642205000000000000000000
+	Distance from sun: 	227900000000
+	Velocity:		24130
+Jupiter:
+	Mass: 			1898000000000000000000000000
+	Distance from sun: 	778400000000
+	Velocity: 		13060
+Saturn:
+	Mass: 			568426100000000000000000000
+	Distance from sun: 	1425600000000
+	Velocity: 		9640
+Uranus:
+	Mass: 			86861960000000000000000000
+	Distance from sun: 	2870000000000
+	Velocity:		6810
+Neptune:
+	Mass: 			102932020000000000000000000
+	Distance from sun: 	4501000000000
+	Velocity:		5430
+
+
+
+
+
+
